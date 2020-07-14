@@ -1,1 +1,1 @@
-# -tono0682-Segmenting-and-Clustering-Suburbs-in-Gold-Coast-City-
+# Segmenting and Clustering Suburbs in Gold Coast City
